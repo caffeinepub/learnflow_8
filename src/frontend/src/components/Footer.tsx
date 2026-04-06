@@ -15,7 +15,7 @@ export default function Footer() {
                 className="font-bold text-lg"
                 style={{ fontFamily: "'Bricolage Grotesque', sans-serif" }}
               >
-                LearnFlow
+                E-Learning Platform
               </span>
             </div>
             <p className="text-sm text-sidebar-foreground/70">

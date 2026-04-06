@@ -28,7 +28,7 @@ export default function Navbar() {
         >
           <GraduationCap className="w-7 h-7" />
           <span style={{ fontFamily: "'Bricolage Grotesque', sans-serif" }}>
-            LearnFlow
+            E-Learning Platform
           </span>
         </Link>
 

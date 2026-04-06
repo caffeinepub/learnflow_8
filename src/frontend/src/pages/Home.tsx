@@ -214,7 +214,7 @@ export default function Home() {
               <BookOpen className="w-12 h-12 mx-auto text-muted-foreground mb-4" />
               <h3 className="text-xl font-semibold mb-2">No courses yet</h3>
               <p className="text-muted-foreground mb-6">
-                Be the first to create a course on LearnFlow
+                Be the first to create a course on E-Learning Platform
               </p>
               <Button asChild data-ocid="home.create_course.button">
                 <Link to="/instructor">Create a Course</Link>
@@ -276,7 +276,7 @@ export default function Home() {
             Ready to Start Learning?
           </h2>
           <p className="text-white/80 mb-8 max-w-lg mx-auto">
-            Join thousands of students already learning on LearnFlow
+            Join thousands of students already learning on E-Learning Platform
           </p>
           <Button
             asChild
